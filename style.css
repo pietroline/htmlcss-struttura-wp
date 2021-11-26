@@ -1,14 +1,15 @@
+/* start general's css */
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
 
+/* general's css end */
 
 
 
-
-
+/* start header's css */
 header.container{
     width: 80%;
     margin: 50px auto;
@@ -18,14 +19,14 @@ header.container{
     height: 150px;
     background-color: #e579e6;
 }
+/* header's css end */
 
 
 
 
 
 
-
-
+/* start main's css */
 main.principale{
     width: 80%;
     margin: auto;
@@ -70,11 +71,12 @@ main.principale{
         display: table;
         clear: both;
     }
+/* main's css end*/
 
 
 
 
-
+/* start footer's css */
 footer.coda{
     width: 80%;
     margin: auto;
@@ -86,6 +88,8 @@ footer.coda{
     margin-top: 20px;
     margin-bottom: 50px;
 }
+
+/* footer's css end*/
 
 
 
