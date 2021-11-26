@@ -62,7 +62,7 @@ main.principale{
 
 }
 
-.sidebar_left{
+.sidebar{
     width: 27%;
     height: 50px;
     height: 800px;
@@ -78,15 +78,7 @@ main.principale{
     margin: 0% 3%;
 }
 
-.sidebar_right{
-    width: 27%;
-    height: 50px;
-    height: 800px;
-    background-color: #abcfe7;
-    float: right;
-}
-
-.principale:after{
+.section_2:after{
     content: "";
     display: table;
     clear: both;
