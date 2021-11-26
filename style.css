@@ -37,20 +37,20 @@ main.principale{
 }
 
 .sezione_2{
-    height: 1000px;
+   
     background-color: #0087ff;
     margin-top: 50px;
 }
 
     .testa{
         background-color: #abcfe7;
-        height: 10%;
+        height: 100px;
     }
 
     .sidebar{
         background-color: #abcfe7;
         width: 27%;
-        height: 84%;
+        height: 500px;
         float: left;
         margin: 3% 0px;
 
@@ -59,15 +59,13 @@ main.principale{
     .centro{
         background-color: #abcfe7;
         width: 40%;
-        height: 84%;
+        height:  500px;
         float: left;
         margin: 3% 3%;
     }
 
-    .sottosezione{
-        height: 90%;
-    }
-    .sottosezione:after{
+   
+    .sezione_2:after{
         content:"";
         display: table;
         clear: both;
