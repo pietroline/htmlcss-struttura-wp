@@ -5,15 +5,15 @@
     box-sizing: border-box;
 }
 
+.container{
+    width: 80%;
+    margin: auto;
+}
+
 /* general's css end */
 
 
-
 /* start header's css */
-header.container{
-    width: 80%;
-    margin: 50px auto;
-}
 
 .intestazione{
     height: 150px;
@@ -22,19 +22,12 @@ header.container{
 /* header's css end */
 
 
-
-
-
-
 /* start main's css */
-main.principale{
-    width: 80%;
-    margin: auto;
-}
 
 .sezione_1{
     height: 600px;
     background-color: #e1d67a;
+    margin-top: 50px;
 }
 
 .sezione_2{
@@ -77,10 +70,6 @@ main.principale{
 
 
 /* start footer's css */
-footer.coda{
-    width: 80%;
-    margin: auto;
-}
 
 .footer{
     height: 100px;
