@@ -15,7 +15,7 @@
 
 /* start header's css */
 
-.intestazione{
+header .intestazione{
     height: 150px;
     background-color: #e579e6;
     margin-top: 50px;
@@ -25,24 +25,24 @@
 
 /* start main's css */
 
-.sezione_1{
+main .sezione_1{
     height: 600px;
     background-color: #e1d67a;
     margin-top: 50px;
 }
 
-.sezione_2{
+main .sezione_2{
    
     background-color: #0087ff;
     margin-top: 50px;
 }
 
-    .testa{
+    .sezione_2 .testa{
         background-color: #abcfe7;
         height: 100px;
     }
 
-    .sidebar{
+    .sezione_2 .sidebar{
         background-color: #abcfe7;
         width: 27%;
         height: 500px;
@@ -51,7 +51,7 @@
 
     }
 
-    .centro{
+    .sezione_2 .centro{
         background-color: #abcfe7;
         width: 40%;
         height:  500px;
@@ -72,7 +72,7 @@
 
 /* start footer's css */
 
-.footer{
+footer .footer{
     height: 100px;
     background-color: #8801fe;
     margin-top: 20px;
